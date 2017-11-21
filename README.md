@@ -9,7 +9,7 @@ Python Bot for scrapping Twiiter profile
 
 * Install dependencies
 
-            git clone 
+            git clone https://github.com/vibhusharma94/twitter_scraper.git
             cd twitter_scraper
             virtualenv ve
             source ve/bin/activate
